@@ -1,0 +1,9 @@
+C:\Users\kadir\source\repos\KB.Helpers\KB.Helpers\bin\Debug\KB.Helpers.dll
+C:\Users\kadir\source\repos\KB.Helpers\KB.Helpers\bin\Debug\KB.Helpers.pdb
+C:\Users\kadir\source\repos\KB.Helpers\KB.Helpers\obj\Debug\KB.Helpers.csproj.AssemblyReference.cache
+C:\Users\kadir\source\repos\KB.Helpers\KB.Helpers\obj\Debug\KB.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\kadir\source\repos\KB.Helpers\KB.Helpers\obj\Debug\KB.Helpers.dll
+C:\Users\kadir\source\repos\KB.Helpers\KB.Helpers\obj\Debug\KB.Helpers.pdb
+C:\Users\kadir\source\repos\KB.Helpers\KB.Helpers\bin\Debug\KB.Helpers.dll.config
+C:\Users\kadir\source\repos\KB.Helpers\KB.Helpers\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\kadir\source\repos\KB.Helpers\KB.Helpers\obj\Debug\KB.Helpers.csproj.CopyComplete
