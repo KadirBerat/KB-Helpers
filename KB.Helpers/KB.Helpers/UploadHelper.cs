@@ -79,7 +79,7 @@ namespace KB.Helpers
         {
             if (file != null)
             {
-                string[] extension = new string[] { ".jpg", ".jpeg", ".png", ".docx", ".pdf" };
+                string[] extension = new string[] { ".jpg", ".jpeg", ".png", ".docx", ".pdf", ".mp4" };
                 string fileExtension = Path.GetExtension(file.FileName).ToLower();
                 if (!extension.Contains(fileExtension))
                 {

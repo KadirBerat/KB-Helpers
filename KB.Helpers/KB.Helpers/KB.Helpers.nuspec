@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package >
   <metadata>
-    <id>$id$</id>
-    <version>$version$</version>
-    <title>$title$</title>
-    <authors>$author$</authors>
+    <id>KB-Helpers</id>
+    <version>1.0.0</version>
+    <title>KB Helpers</title>
+    <authors>Kadir Berat Guventurk</authors>
+		<owners>Kadir Berat Guventurk</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">MIT</license>
     <!-- <icon>icon.png</icon> -->
-    <projectUrl>http://project_url_here_or_delete_this_line/</projectUrl>
-    <description>$description$</description>
-    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
-    <copyright>$copyright$</copyright>
-    <tags>Tag1 Tag2</tags>
+    <projectUrl>https://github.com/KadirBerat/KB-Helpers.git</projectUrl>
+    <readme>README.md</readme>
+    <description>In this class library project, there are four basic classes that you can use for hashing, logging, sending mail and uploading files to the server.</description>
+    <releaseNotes>First release of this version. (old versions are deprecated)</releaseNotes>
+    <copyright>Copyright 2022 kadirguventurk</copyright>
+    <tags>Logging Mail MD5 SHA1 SHA256 SHA384 SHA512</tags>
   </metadata>
+  <files>
+		<file src="README.md" target="" />
+	</files>
 </package>
